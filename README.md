@@ -130,4 +130,4 @@ Simulation-based prototyping using Wokwi
 
 Nikhil Kant
 
-Nisha Jan
+Nisha Jana
